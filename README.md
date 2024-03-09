@@ -1,4 +1,4 @@
-[![MasterHead](https://www.vecteezy.com/vector-art/7938815-vector-concept-illustration-programmer-engineer-with-laptop-sitting-at-the-office-desk-holding-a-pen-while-coding-and-developing-flat-cartoon-style)
+[![MasterHead](https://media.licdn.com/dms/image/C5112AQFUrPEFvs6ElA/article-cover_image-shrink_720_1280/0/1544533340645?e=2147483647&v=beta&t=l2ouSb9xvGewm2PXf7JYDZjUwUNRDSPofcwP9Es3qz8)
 <h1 align="center">Hi 👋, I'm Vasif</h1>
 <h3 align="center">A passionate backend developer from Azerbaijan</h3>
 
