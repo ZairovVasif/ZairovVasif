@@ -1,6 +1,6 @@
 ![MasterHead](https://img.freepik.com/free-vector/coding-concept-illustration_114360-1155.jpg?w=1800&t=st=1710007502~exp=1710008102~hmac=5bfeb860a3e501b240c9c1cf2c21ecb72007719b63ae5973ad596d11ab25145c)
 <h1 align="center">Hi 👋, I'm Vasif</h1>
-<h3 align="center">A passionate backend developer from Azerbaijan</h3>
+<h3 align="center">A passionate junior backend developer from Azerbaijan</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
