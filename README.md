@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/C5112AQFUrPEFvs6ElA/article-cover_image-shrink_720_1280/0/1544533340645?e=2147483647&v=beta&t=l2ouSb9xvGewm2PXf7JYDZjUwUNRDSPofcwP9Es3qz8)
+[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnmYziFljI71ipChc88kNJ1qw7lJcHgBEGsI-hb2QTnKXi20_ll8K-5Wx5ofBlS_WyqINVEQHjr-yybvSWP-XSybl2Hg-KDJofU9xacd_sGFUGqNYKRSzIP6gM1K1mt-s6BPRnikL6PM7lapZuORr0OX9EVA-Sf-3SoSwc6F5qxAzZ1QkZUZVLs-8v/s16000-rw/Web%20Developer.webp)
 <h1 align="center">Hi 👋, I'm Vasif</h1>
 <h3 align="center">A passionate backend developer from Azerbaijan</h3>
 
