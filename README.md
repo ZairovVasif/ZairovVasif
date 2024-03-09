@@ -1,4 +1,4 @@
-[![MasterHead](https://ideacdn.net/idea/ct/82/myassets/blogs/programlama-dilleri-betik-diller.jpg?revision=1548267428)
+[![MasterHead](https://www.vecteezy.com/vector-art/7938815-vector-concept-illustration-programmer-engineer-with-laptop-sitting-at-the-office-desk-holding-a-pen-while-coding-and-developing-flat-cartoon-style)
 <h1 align="center">Hi 👋, I'm Vasif</h1>
 <h3 align="center">A passionate backend developer from Azerbaijan</h3>
 
