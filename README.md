@@ -1,6 +1,6 @@
 ![MasterHead](https://img.freepik.com/free-vector/coding-concept-illustration_114360-1155.jpg?w=1800&t=st=1710007502~exp=1710008102~hmac=5bfeb860a3e501b240c9c1cf2c21ecb72007719b63ae5973ad596d11ab25145c)
 # 💫 About Me:
-I'm Zairov Vasif, Mobile Developer and Content Creator.<br>🌱 I'm currently trying to develop beautiful applications with Flutter and Dart.💙.<br>🔭
+I'm Zairov Vasif, Mobile Developer and Web Developer.<br>🌱 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/v.zairov/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vasif-zahirov-229422210) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)]
 
